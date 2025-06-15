@@ -6,7 +6,7 @@
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200 align="left" style="padding:10px; padding-left:0; border-radius:50px"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Unejs+Subashi;Java+Developer;Full+stack+web+developer...;Software+Enginer;Contact:+unejssubashi20@gmail.com" />
 </div>
- <p style="text-align: justify;text-justify: inter-word;"> - <i>I am currently working as a Java Developer, with the goal of developing my skills to become a proficient full-stack developer. With a strong foundation in Software Engineering and a passion for coding, I am committed to writing high-quality code and contributing effectively in the workplace.
+ <p style="text-align: justify;text-justify: inter-word;"> - <i>I am currently working as a JavaScript Developer, with the goal of developing my skills to become a proficient full-stack developer. With a strong foundation in Software Engineering and a passion for coding, I am committed to writing high-quality code and contributing effectively in the workplace.
  <br> <br>
  </i></p>
 <br>
@@ -19,11 +19,11 @@
 </h3>
 </br>
 <p style="text-align: justify;text-justify: inter-word;">
-- 🔧 I’m currently working on building a scalable microservices architecture using Docker and Kubernetes.<br>
+- 🔧 I’m currently working on building worderful web applications.<br>
 - 💡 I’m curious about exploring machine learning and its applications in software development.<br>
-- 📖 I’m currently learning more about CI/CD pipelines and DevOps practices.<br>
+- 📖 I’m currently learning more about UI/UX Design and Web Frameworks.<br>
 - ❄️ I’m looking to collaborate on open-source projects that focus on innovative solutions for real-world problems.<br>
-- 📫 How to reach me tranquanghuyit09@gmail.com.</p>
+- 📫 How to reach me <a href="https://al.linkedin.com/in/unejs-subashi-%F0%9F%AA%BC-62261b288">Unejs Subashi 🐱‍👤</a></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
