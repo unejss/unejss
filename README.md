@@ -38,7 +38,7 @@
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time
 
 <p align="center">
-    <a href="https://github.com/U7P4L-IN">
+    <a href="https://github.com/unejss">
           <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
@@ -173,39 +173,6 @@
  </tr>
 </table>
  
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-### 🏆GitHub Trophies
-
-<p align="center">
-    <a href="https://github.com/U7P4L-IN">
-          <img width="71%" src="https://github-profile-trophy.vercel.app/?username=U7P4L-IN&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-    <img width="28%" src="https://holopin.me/amajaying3" />
-  </a>
-</p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
-
-<p align="center">
-<a href="https://github.com/U7P4L-IN"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20&hide_border=true" alt="GitHub language stats" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-</p>
-
-<hr> 
-<p></p>
-<p align="center">
-<a href="https://github.com/U7P4L-IN"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=dark&hide_border=flase&combine_all_yearly_contributions=true&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unejss&theme=dark&hide_border=true&border_radius=10" />
- </a></p>
-<p align="center">
-<a href="https://github.com/U7P4L-IN">
-<img width="30%" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif" style="border-radius:10px" />
-<img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=unejss&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&border_radius=10&hide_border=true" style="border-radius:10px"/>
-<!--(https://github.com/ashutosh00710/github-readme-activity-graph)-->
-  </a>
-</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
