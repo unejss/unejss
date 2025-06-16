@@ -169,8 +169,6 @@
       <br>Pytest
     </td>
   </tr>
- <tr>
- </tr>
 </table>
  
 
