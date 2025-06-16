@@ -30,7 +30,7 @@
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me
 
 <p align="center">
-<a href="https://github.com/unejss"><img title="GitHub" src="https://img.shields.io/badge/github-D14836?style=for-the-badge&logo=github&logoColor=white"></a><a href="ps://al.linkedin.com/in/unejs-subashi-%F0%9F%AA%BC-62261b288"><img title="LinkedIn" src="https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a align="center"><a href="https://unejssubashi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+<a href="https://github.com/unejss"><img title="GitHub" src="https://img.shields.io/badge/github-D14836?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://al.linkedin.com/in/unejs-subashi-%F0%9F%AA%BC-62261b288](https://al.linkedin.com/in/unejs-subashi-%F0%9F%AA%BC-62261b288)"><img title="LinkedIn" src="https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a align="center"><a href="https://unejssubashi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
