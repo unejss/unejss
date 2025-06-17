@@ -4,7 +4,7 @@
  <tr>
    <div style="align:left;">
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200 align="left" style="padding:10px; padding-left:0; border-radius:50px"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Unejs+Subashi;Java+Developer;Full+stack+web+developer...;Software+Enginer;Website:+unejssubashi.vercel.app" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Unejs+Subashi;JavaScript+Developer;Full+stack+web+developer...;Software+Enginer;Website:+unejssubashi.vercel.app" />
 </div>
  <p style="text-align: justify;text-justify: inter-word;"> - <i>I am currently working as a JavaScript Developer, with the goal of developing my skills to become a proficient full-stack developer. With a strong foundation in Software Engineering and a passion for coding, I am committed to writing high-quality code and contributing effectively in the workplace.
  <br> <br>
